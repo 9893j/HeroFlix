@@ -1,8 +1,6 @@
 # HeroFlix
-Heroflix e um clone da interface da netfliz sendo um desafio do bootcamp carrefour
+Heroflix e um clone sendo da interface da netflix. o Projeto e um desafio do bootcamp carrefour! (DIO)
 
-###preview
-![Legenda]
 
 ###Tecnologias
 * HTML
